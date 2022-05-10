@@ -680,3 +680,16 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+.mymailto {
+    margin-bottom: 20px;
+}
+
+.buttonContainer {
+    text-align:center;
+    margin-top: 15px;
+}
+
+.social_icon {
+    margin-right: 10px;
+}
