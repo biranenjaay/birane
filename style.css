@@ -537,6 +537,18 @@ section .title::after{
   color: crimson;
   background: none;
 }
+.mymailto {
+    margin-bottom: 20px;
+}
+
+.buttonContainer {
+    text-align:center;
+    margin-top: 15px;
+}
+
+.social_icon {
+    margin-right: 10px;
+}
 
 /* footer section style */
 footer{
@@ -681,15 +693,3 @@ footer span a:hover{
     }
 }
 
-.mymailto {
-    margin-bottom: 20px;
-}
-
-.buttonContainer {
-    text-align:center;
-    margin-top: 15px;
-}
-
-.social_icon {
-    margin-right: 10px;
-}
