@@ -537,6 +537,7 @@ section .title::after{
   color: crimson;
   background: none;
 }
+
 /* footer section style */
 footer{
     background: #111;
@@ -551,7 +552,6 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
-
 
 
 /* responsive media query start */
