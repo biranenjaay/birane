@@ -372,6 +372,9 @@ section .title::after{
 .skills-content .right .Maintenance::before{
     width: 95%;
 }
+.skills-content .right .Office365::before{
+    width: 100%;
+}
 .skills-content .right .php::before{
     width: 50%;
 }
